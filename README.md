@@ -2,6 +2,8 @@
 
 This Streamlit app displays pre-market data for NSE indices and stocks. It provides information on top gainers, top losers, market status, and allows users to apply filters based on various criteria.
 
+Find the app on [Streamlit Sharing](https://abhijeeth-babu-nse-premarket-analysis-app-uewntx.streamlit.app/)
+
 ## Features
 
 - **Select Index:** Choose from different NSE indices, including NIFTY, BANKNIFTY, SME, FO, OTHERS, and view pre-market data.
